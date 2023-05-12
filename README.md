@@ -14,3 +14,5 @@ Building on Xubuntu 22.04:
 `make clean`
 
 `make sure`
+
+`sudo make install`
